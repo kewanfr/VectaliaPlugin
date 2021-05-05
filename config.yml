@@ -1,0 +1,109 @@
+customswords:
+  list: corruption, servitude, dilitro, fulminante, foudroyante, misericorde, notung, damnation
+  corruption:
+    name: "Epée de Corruption"
+    material: DIAMOND_SWORD
+    chance: 0.5
+    moneytoremove: 500
+    desc1: "Lorsqu'un coup est infligé, "
+    desc2: "vous avez 5% de chance de voler 500$"
+    desc3: "A votre ennemi"
+    enchant1: DAMAGE_ALL
+    enchant1Lvl: 5
+    enchant2: FIRE_ASPECT
+    enchant2Lvl: 2
+    flagsHide: false
+  servitude:
+    name: "Epée de Servitude"
+    material: DIAMOND_SWORD
+    chance: 0.5
+    duree: 5
+    speed: 0.5
+    effect: SLOW
+    effectLvl: 2
+    desc1: "Lorsqu'un coup est infligé, "
+    desc2: "vous avez 5% de chance de ralentir"
+    desc3: " votre ennemi durant 5 secondes"
+    enchant1: DAMAGE_ALL
+    enchant1Lvl: 5
+    enchant2: FIRE_ASPECT
+    enchant2Lvl: 2
+    flagsHide: false
+  dilitro:
+    name: "Epée de Dilitro"
+    material: DIAMOND_SWORD
+    chance: 0.5
+    duree: 5
+    effect: POISON
+    effectLvl: 1
+    desc1: "Lorsqu'un coup est infligé, "
+    desc2: "vous avez 5% de chance d'empoisoner"
+    desc3: "votre ennemi durant 5 secondes"
+    enchant1: DAMAGE_ALL
+    enchant1Lvl: 5
+    enchant2: FIRE_ASPECT
+    enchant2Lvl: 2
+    flagsHide: false
+  fulminante:
+    name: "Epée Fulminante"
+    material: DIAMOND_SWORD
+    chance: 1
+    desc1: "Lorsqu'un coup est infligé, "
+    desc2: "vous avez 10% de chance de faire"
+    desc3: "exploser la zone dans un rayon de 3x3"
+    enchant1: DAMAGE_ALL
+    enchant1Lvl: 5
+    enchant2: FIRE_ASPECT
+    enchant2Lvl: 2
+    flagsHide: false
+  foudroyante:
+    name: "Epée Foudroyante"
+    material: DIAMOND_SWORD
+    chance: 1
+    desc1: "Lorsqu'un coup est infligé, "
+    desc2: "vous avez 10% de chance"
+    desc3: "de foudroyer votre ennemi"
+    enchant1: DAMAGE_ALL
+    enchant1Lvl: 5
+    enchant2: FIRE_ASPECT
+    enchant2Lvl: 2
+    flagsHide: false
+  misericorde:
+    name: "Epée Miséricorde"
+    material: DIAMOND_SWORD
+    chance: 0.5
+    duree: 5
+    effect: BLINDNESS
+    effectLvl: 1
+    desc1: "Lorsqu'un coup est infligé, "
+    desc2: "vous avez 5% de chance d'aveugler"
+    desc3: "votre ennemi durant 5 secondes"
+    enchant1: DAMAGE_ALL
+    enchant1Lvl: 5
+    enchant2: FIRE_ASPECT
+    enchant2Lvl: 2
+    flagsHide: false
+  notung:
+    name: "Epée notung"
+    material: DIAMOND_SWORD
+    chance: 0.5
+    desc1: "Lorsqu'un coup est infligé, "
+    desc2: "vous avez 5% de chance d'infliger"
+    desc3: "un double dégat à votre ennemi"
+    echant1: DAMAGE_ALL
+    enchant1Lvl: 5
+    enchant2: FIRE_ASPECT
+    enchant2Lvl: 2
+    flagsHide: false
+  damnation:
+    name: "Epée de Damnation"
+    material: DIAMOND_SWORD
+    chance: 0.2
+    desc1: "Lorsqu'un coup est infligé, "
+    desc2: "vous avez 2% de chance d'annuler"
+    desc3: "tout les effets de potions de votre ennemi"
+    enchant1: DAMAGE_ALL
+    enchant1Lvl: 5
+    enchant2: FIRE_ASPECT
+    enchant2Lvl: 2
+    flagsHide: false

@@ -1,0 +1,9 @@
+name: VectaliaPlugin
+version: 1.0-beta
+author: kewanb
+main: fr.kewanb.vectaliaplugin.Vectalia
+commands:
+  customsword:
+    description: Give Custom Sword
+    permission: customsword.use
+    aliases: [swords]
